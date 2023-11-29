@@ -8,7 +8,7 @@
   \*...
 
 #### Screen-shots
-(https://github.com/phgnamm/React_Dog_Shop/blob/master/screenshots/dogshop.png)
+![Dog_Shop interface](https://github.com/phgnamm/React_Dog_Shop/blob/master/screenshots/dogshop.png)
 
 ##### Connect me via : namdang089@gmail.com
 
